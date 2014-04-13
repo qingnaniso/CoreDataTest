@@ -1,0 +1,4 @@
+CoreDataTest
+============
+
+coredata test
